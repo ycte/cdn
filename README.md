@@ -1,0 +1,2 @@
+# cdn
+Standby online storage. 
